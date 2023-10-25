@@ -1,0 +1,23 @@
+package jobsheetP3;
+
+public class P3 {
+String nama;
+String nim;
+int kelompok;
+
+public P3(String nama, String nim, int
+kelompok) {
+this.nama = nama;
+this.nim = nim;
+this.kelompok = kelompok;
+}
+public static void main(String[] args) {
+P3 mahasiswa = new
+P3("Rahmat Agus Firdaus",
+"F1B019117", 1);
+System.out.println("Nama: " +
+mahasiswa.nama);
+System.out.println("NIM: " +
+mahasiswa.nim);
+System.out.println("Kelompok: " +
+mahasiswa.kelompok)
