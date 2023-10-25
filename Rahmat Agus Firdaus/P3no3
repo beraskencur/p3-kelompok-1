@@ -1,0 +1,14 @@
+package jobsheetP3;
+
+public class P3 { String mk;
+int nilai;
+public P3(String mk, int nilai) { this.mk = mk;
+this.nilai = nilai;
+}
+
+public static void main(String[] args) { P3 mahasiswa = new
+P3("Pemrograman Berorientasi Objek", 90); System.out.println("Mata Kuliah: " +
+mahasiswa.mk);
+System.out.println("Nilai: " + mahasiswa.nilai);
+}
+}
