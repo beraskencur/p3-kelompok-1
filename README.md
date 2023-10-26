@@ -26,3 +26,8 @@
 <p>NO 9 F1B019150</p>
 <img src="https://raw.githubusercontent.com/beraskencur/p3-Kelompok-1/main/Arfando Grasanando/No9.png">
 <p></p>
+
+<h3>Muhammad Arief Fiqron Saputra</h3>
+<p>NO 1 F1B019150</p>
+<img src="https://raw.githubusercontent.com/beraskencur/p3-Kelompok-1/main/Muhammad Arief Fiqron Saputra/Screnshoot/p3no1_F1B021072.png">
+<p></p>
