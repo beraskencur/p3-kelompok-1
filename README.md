@@ -55,3 +55,6 @@
 <p>NO 9 F1B021072</p>
 <img src="https://raw.githubusercontent.com/beraskencur/p3-Kelompok-1/main/Muhammad Arief Fiqron Saputra/Screnshoot/p3no9_F1B021072.png">
 <p></p>
+<p>TugasP3 F1B021072</p>
+<img src="https://raw.githubusercontent.com/beraskencur/p3-Kelompok-1/main/Muhammad Arief Fiqron Saputra/Screnshoot/Tugasp3_F1B021072.png">
+<p></p>
